@@ -1,0 +1,14 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#spinner {
+    height: 100px;
+    width: 100px;
+}
