@@ -10,6 +10,16 @@ Instead of `Loadin ...` text just place md-spinner svg image.
     </my-app>
 ```
 
+## Safari
+If you wnat compatibility with safari use 
+```html
+<object
+   type="image/svg+xml"
+   data="img/GENERAL/md-spinner.svg">
+</object> 
+```
+instead
+
 ## In your `main.css` file (for centering the spinner)
 ```css
 html, body {
