@@ -11,7 +11,7 @@ Instead of `Loadin ...` text just place md-spinner svg image.
 ```
 
 ## Safari
-If you wnat compatibility with safari use 
+If you want compatibility with safari use object instead img
 ```html
 <object
    type="image/svg+xml"
