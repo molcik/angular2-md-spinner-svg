@@ -1,6 +1,9 @@
 # Angular 2 md-spinner.svg
 For loading your angular 2 app (which can be around 2MB big) is pretty useful to have the material design spinner in `.svg`. So you can show loading spinner while the app is loaded. 
 
+# Demo
+You can see example [here](https://filipmolcik.com/angular-2-material-design-svg-spinner/)
+
 # Example of usage
 ## In you `index.html` file
 Instead of `Loadin ...` text just place md-spinner svg image.
