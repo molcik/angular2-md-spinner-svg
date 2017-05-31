@@ -18,14 +18,13 @@ Instead of `Loadin ...` text just place md-spinner svg image.
 ```
 
 ## Safari
-If you want compatibility with safari use object instead img
+To achieve compatibility with safari use object instead img
 ```html
 <object
    type="image/svg+xml"
    data="img/GENERAL/md-spinner.svg">
 </object> 
 ```
-instead
 
 ## In your `main.css` file (for centering the spinner)
 ```css
