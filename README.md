@@ -1,5 +1,5 @@
 # Angular 2 md-spinner.svg
-For loading your angular 2 app (which can be around 0.5MB big) is pretty useful to have the material design spinner in `.svg`. So you can show loading spinner while the app is loaded. 
+For loading your angular 2 app (which can be around 0.5MB big) is pretty useful to have the material design spinner in `.svg`. So you can show loading spinner while the app is loading. 
 
 
 ![md-spinner](https://github.com/molcik/angular2-md-spinner-svg/blob/master/md-spinner.gif)
